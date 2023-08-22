@@ -61,6 +61,11 @@ Node.js Updates
 // comments were made as needed in JavaScript file
 ```
 
+Express.js Updates
+```
+// comments were made as needed in JavaScript file
+```
+
 ## Usage
 
 - Clone repo onto local device
@@ -80,6 +85,10 @@ I used the following resources to help guide me to complete the portfolio projec
 - [Node.js Introduction](https://www.w3schools.com/nodejs/nodejs_intro.asp)
 - [Static Badge](https://shields.io/badges)
 - [How to take a full page screenshot with a hidden Chrome shortcut](https://zapier.com/blog/full-page-screenshots-in-chrome/)
+
+Starter code was provided by:
+
+- [miniature-eureka](https://github.com/coding-boot-camp/miniature-eureka/tree/main)
 
 ## License
 

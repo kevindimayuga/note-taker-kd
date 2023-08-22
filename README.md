@@ -15,16 +15,13 @@ The motivation behind this project was to learn how to utilize the skills I've l
 - GitHub Repo URL: https://github.com/kevindimayuga/note-taker-kd
 - GitHub Pages WebPage Deployment URL: n/a
 
-- Since this will be a command-line application and not a webpage application, you can use the following [LINK](https://drive.google.com/file/d/1n4jqby6HYdnsotiH87S_bE5M_-LJ9Jzr/view) to access a video walkthrough on how to use the README generator application.
-    - [README Generator Video Walkthrough](https://drive.google.com/file/d/1n4jqby6HYdnsotiH87S_bE5M_-LJ9Jzr/view)
-
 ## Webpage Screenshot
 
-#### CLI application test example:
-![readme generator command line example screenshot](./assets/images/cli-application-test-kd.PNG)
+#### Note taker localhost example:
+![note taker localhost example screenshot](./assets/images/cli-application-test-kd.PNG)
 
-#### Generated README test example:
-![generated README example screenshot](./assets/images/generated-readme-example-kd.PNG)
+#### DELETE request example:
+![DELETE request example screenshot](./assets/images/generated-readme-example-kd.PNG)
 
 ## Table of Contents
 
@@ -45,11 +42,11 @@ The following steps were taken to complete the project:
 - Review the basics to starting a command-line application
 - Review JavaScript
 - Review Node.js
+- Review Express.js
 - Create Professional README file
 - Write code
 - Add website image/gif to README file
-- Add link to video walkthrough on how to use README generator command-line application
-- Submit URL to GitHub Repo and link to video walkthrough
+- Submit URL to GitHub Repo and link to Heroku deployment
 
 JavaScript Updates
 ```
@@ -71,9 +68,14 @@ Express.js Updates
 - Clone repo onto local device
 - Open repo in local CLI
 - Make sure node packages are installed by running 'npm i'
-- Run 'node index.js' in CLI
-- Fill out reach question/prompt for the readme generator
-- Open up generated readme with all sections/information
+- Run 'node index.js' or 'npm start' in CLI
+- Open up localhost on browser (http://localhost:3001)
+- Press 'Get Started' to initiate Note Taker application
+- Type Note title and text in input areas
+- Click save icon
+- Review saved notes on left-hand side of web application
+- Click delete button to delete saved notes
+- Review user inputs in CLI for saved notes or delete requests
 
 ## Credits
 
@@ -83,7 +85,7 @@ I used the following resources to help guide me to complete the portfolio projec
 - [W3Schools](https://www.w3schools.com/)
 - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 - [Node.js Introduction](https://www.w3schools.com/nodejs/nodejs_intro.asp)
-- [Static Badge](https://shields.io/badges)
+- [Express.js](https://expressjs.com/)
 - [How to take a full page screenshot with a hidden Chrome shortcut](https://zapier.com/blog/full-page-screenshots-in-chrome/)
 
 Starter code was provided by:

@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Friday","text":"Take trash out","id":"0"},{"title":"Saturday","text":"Clean house","id":"1"},{"title":"Sunday","text":"Do laundry","id":"2"}]

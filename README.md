@@ -1,6 +1,6 @@
 # Note Taker
 
-This repo is for module eleven's challenge assignment.
+M11 - This repo is a Note Taker application that can be used to write and save notes.
 
 ## Description
 

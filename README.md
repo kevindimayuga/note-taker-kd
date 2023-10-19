@@ -14,14 +14,15 @@ The motivation behind this project was to learn how to utilize the skills I've l
 
 - GitHub Repo URL: https://github.com/kevindimayuga/note-taker-kd
 - GitHub Pages WebPage Deployment URL: n/a
+- Heroku Webpage Deployed URL: https://note-taker-kd-d760ecc1a38a.herokuapp.com/
 
 ## Webpage Screenshot
 
-#### Note taker localhost example:
-![note taker localhost example screenshot](./assets/images/cli-application-test-kd.PNG)
+#### Note taker heroku app home screen example:
+![note taker home screen screenshot](./public/assets/images/note-taker-home-screen-heroku-app.png)
 
-#### DELETE request example:
-![DELETE request example screenshot](./assets/images/generated-readme-example-kd.PNG)
+#### Note taker app use example:
+![note taker app use example screenshot](./public/assets/images/note-taker-app-use.png)
 
 ## Table of Contents
 
